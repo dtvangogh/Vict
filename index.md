@@ -21,5 +21,5 @@ Vict works locally and does not require an internet connection.
 ### About Vict
 
 Vict was inspired by a desire to make language learning easier and less time consuming. The creators of Vict wanted to give each and every person access to their own personal translator they can tailor to fit their own personal needs. 
-
+[Get started now](https://github.com/dtvangogh/Vict/)
 
