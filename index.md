@@ -1,7 +1,7 @@
 ## Conquer a new language
 
 Learning a new language can be hard, messy, and complicated. That's why we made Vict - a product that gives you access to your own in-app translator.
-[Get started now](https://github.com/dtvangogh/Vict/
+[Get started now](https://github.com/dtvangogh/Vict/)
 
 
 ### A better way to translate
